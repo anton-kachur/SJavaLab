@@ -1,0 +1,514 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="35d11c36-bef6-4ae4-96b6-c87e6a1c3787" name="Default Changelist" comment="lab 4 added">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_logging_commons_logging_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_4_3_4_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_4_3_4_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_4_3_4_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_4_3_4_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_4_3_4_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/springframework_spring_context_1_2_6.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgEng_lab_1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/ProgEng_lab_1.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="AnnotationType" />
+        <option value="JUnit5 Test Class" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <excluded-from-favorite>
+      <branch-storage>
+        <map>
+          <entry type="LOCAL">
+            <value>
+              <list>
+                <branch-info repo="$PROJECT_DIR$" source="master" />
+              </list>
+            </value>
+          </entry>
+          <entry type="REMOTE">
+            <value>
+              <list>
+                <branch-info repo="$PROJECT_DIR$" source="origin/master" />
+              </list>
+            </value>
+          </entry>
+        </map>
+      </branch-storage>
+    </excluded-from-favorite>
+    <favorite-branches>
+      <branch-storage>
+        <map>
+          <entry type="LOCAL">
+            <value>
+              <list>
+                <branch-info repo="$PROJECT_DIR$" source="GOF_patterns" />
+              </list>
+            </value>
+          </entry>
+          <entry type="REMOTE">
+            <value>
+              <list>
+                <branch-info repo="$PROJECT_DIR$" source="origin/GOF_patterns" />
+              </list>
+            </value>
+          </entry>
+        </map>
+      </branch-storage>
+    </favorite-branches>
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--follow-tags" />
+        <option name="title" value="Current Branch" />
+      </GitPushTagMode>
+    </option>
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="mock_tests" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../Lab_cpe" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="GithubProjectSettings">
+    <option name="CREATE_PULL_REQUEST_DEFAULT_BRANCH" value="mock_tests" />
+    <option name="CREATE_PULL_REQUEST_DEFAULT_REPO_USER" value="anton-kachur" />
+    <option name="CREATE_PULL_REQUEST_DEFAULT_REPO_NAME" value="Proxy_annotations_etc" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="C:\Users\Антон\IdeaProjects\ProgEng_lab_1" />
+        <option value="C:\Users\Антон\IdeaProjects\ProgEng_lab_1\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1oWmsoBDvVzmz29Cw1I72JiVqJF" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="create.test.in.the.same.root" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Lab_cpe/src/main/java/lab2" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.repository.indices" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="l1" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Антон\Desktop\For vertick\Smak_labs\Kate Luka\Lab_cpe\src\main\java\lab2" />
+      <recent name="C:\Users\Антон\Desktop\For vertick\Smak_labs\Kate Luka\Lab_cpe\src\main" />
+      <recent name="C:\Users\Антон\Desktop\For vertick\Smak_labs\Kate Luka\Lab_cpe\src\main\java" />
+      <recent name="D:\IdeaProjects\ProgEng_lab_1\src\main" />
+      <recent name="D:\IdeaProjects\ProgEng_lab_1\src\main\java" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Антон\Desktop\For vertick\Smak_labs\Kate Luka\Lab_cpe\src\main\java" />
+      <recent name="D:\IdeaProjects\ProgEng_lab_1\src\main\java" />
+      <recent name="D:\IdeaProjects\ProgEng_lab_1\src" />
+    </key>
+    <key name="ExtractSuperBase.RECENT_KEYS">
+      <recent name="l1" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="mock_tests" />
+      <recent name="l1" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="lab2" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.l2">
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lab2_0.Main" />
+      <module name="ProgEng_lab_1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lab2_0.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lab1_0.Main" />
+      <module name="ProgEng_lab_1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Unnamed" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lab1.ProgEng_lab_1" />
+      <module name="ProgEng_lab_1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="l2" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="lab2.Main" />
+      <module name="ProgEng_lab_1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="lab1_0" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="lab1_0.Main" />
+      <module name="ProgEng_lab_1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="lab6" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="lab6.ProgEng_lab_1" />
+      <module name="ProgEng_lab_1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JUnitTests" type="CompoundRunConfigurationType">
+      <toRun name="ComplexProxyTest" type="JUnit" />
+      <toRun name="ComplexNumberTest" type="JUnit" />
+      <toRun name="ComplexNumberExponentialTest" type="JUnit" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Mock_tests" type="CompoundRunConfigurationType">
+      <toRun name="ComplexNumberExponentialTest_mock" type="JUnit" />
+      <toRun name="ComplexNumberTest_mock" type="JUnit" />
+      <toRun name="ComplexProxyTest_mock" type="JUnit" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unnamed" type="CompoundRunConfigurationType">
+      <toRun name="lab1_0" type="Application" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="CompoundRunConfigurationType">
+      <toRun name="lab1_0" type="Application" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ComplexExponentialTest" type="JUnit" factoryName="JUnit" nameIsGenerated="true">
+      <module name="ProgEng_lab_1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests" />
+      <option name="MAIN_CLASS_NAME" value="tests.ComplexExponentialTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ComplexTest" type="JUnit" factoryName="JUnit" nameIsGenerated="true">
+      <module name="ProgEng_lab_1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests" />
+      <option name="MAIN_CLASS_NAME" value="tests.ComplexTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProxyTest" type="JUnit" factoryName="JUnit" nameIsGenerated="true">
+      <module name="ProgEng_lab_1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests" />
+      <option name="MAIN_CLASS_NAME" value="tests.ProxyTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProxyTest.newProxyInstance" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ProgEng_lab_1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests" />
+      <option name="MAIN_CLASS_NAME" value="tests.ProxyTest" />
+      <option name="METHOD_NAME" value="newProxyInstance" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="mockComplexExponentialTest" type="JUnit" factoryName="JUnit" nameIsGenerated="true">
+      <module name="ProgEng_lab_1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="mock_tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="mock_tests" />
+      <option name="MAIN_CLASS_NAME" value="mock_tests.mockComplexExponentialTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="mockComplexTest" type="JUnit" factoryName="JUnit" nameIsGenerated="true">
+      <module name="ProgEng_lab_1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="mock_tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="mock_tests" />
+      <option name="MAIN_CLASS_NAME" value="mock_tests.mockComplexTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="mockComplexTest.model_test_mock" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ProgEng_lab_1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="mock_tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="mock_tests" />
+      <option name="MAIN_CLASS_NAME" value="mock_tests.mockComplexTest" />
+      <option name="METHOD_NAME" value="model_test_mock" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="mockComplexTest.new_test_mock" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ProgEng_lab_1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="mock_tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="mock_tests" />
+      <option name="MAIN_CLASS_NAME" value="mock_tests.mockComplexTest" />
+      <option name="METHOD_NAME" value="new_test_mock" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="mockComplexTest.sumNumbers" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ProgEng_lab_1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="mock_tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="mock_tests" />
+      <option name="MAIN_CLASS_NAME" value="mock_tests.mockComplexTest" />
+      <option name="METHOD_NAME" value="sumNumbers" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="mockProxyTest" type="JUnit" factoryName="JUnit" nameIsGenerated="true">
+      <module name="ProgEng_lab_1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="mock_tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="mock_tests" />
+      <option name="MAIN_CLASS_NAME" value="mock_tests.mockProxyTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.l2" />
+      <item itemvalue="Application.lab6" />
+      <item itemvalue="Application.lab1_0" />
+      <item itemvalue="Application.Unnamed" />
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.Main (1)" />
+      <item itemvalue="Compound.Unnamed" />
+      <item itemvalue="Compound.Mock_tests" />
+      <item itemvalue="Compound.JUnitTests" />
+      <item itemvalue="JUnit.ProxyTest" />
+      <item itemvalue="JUnit.ComplexExponentialTest" />
+      <item itemvalue="JUnit.ComplexTest" />
+      <item itemvalue="JUnit.mockProxyTest" />
+      <item itemvalue="JUnit.mockComplexTest" />
+      <item itemvalue="JUnit.mockComplexExponentialTest" />
+      <item itemvalue="JUnit.ProxyTest.newProxyInstance" />
+      <item itemvalue="JUnit.mockComplexTest.sumNumbers" />
+      <item itemvalue="JUnit.mockComplexTest.new_test_mock" />
+      <item itemvalue="JUnit.mockComplexTest.model_test_mock" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main (1)" />
+        <item itemvalue="JUnit.ProxyTest.newProxyInstance" />
+        <item itemvalue="JUnit.mockComplexTest.model_test_mock" />
+        <item itemvalue="JUnit.mockComplexTest.new_test_mock" />
+        <item itemvalue="JUnit.mockComplexTest.sumNumbers" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\Антон\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="35d11c36-bef6-4ae4-96b6-c87e6a1c3787" name="Default Changelist" comment="" />
+      <created>1613410929607</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1613410929607</updated>
+    </task>
+    <task id="LOCAL-00001" summary="New features added">
+      <created>1614521698329</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1614521698329</updated>
+    </task>
+    <task id="LOCAL-00002" summary="New features added h">
+      <created>1614848321715</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1614848321715</updated>
+    </task>
+    <task id="LOCAL-00003" summary="New features added">
+      <created>1614848701625</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1614848701625</updated>
+    </task>
+    <task id="LOCAL-00004" summary="New features added hmk">
+      <created>1616763325777</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1616763325777</updated>
+    </task>
+    <task id="LOCAL-00005" summary="New features added hmk">
+      <created>1617343268894</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1617343268894</updated>
+    </task>
+    <task id="LOCAL-00006" summary="New features added hmkh">
+      <created>1617462145213</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1617462145213</updated>
+    </task>
+    <task id="LOCAL-00007" summary="lab 4 added">
+      <created>1619001571480</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1619001571496</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="New features added h" />
+    <MESSAGE value="New features added" />
+    <MESSAGE value="New features added hmk" />
+    <MESSAGE value="New features added hmkh" />
+    <MESSAGE value="lab 4 added" />
+    <option name="LAST_COMMIT_MESSAGE" value="lab 4 added" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.NullPointerException" package="java.lang" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/ProgEng_lab_1$ComplexNumberTest_sumNumbers.ic" NAME="ComplexNumberTest.sumNumbers Coverage Results" MODIFIED="1616751141496" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>mock_tests.*</FILTER>
+    </SUITE>
+  </component>
+</project>
